@@ -5,3 +5,12 @@
 ###### Este es un encabezado H6
 
 ![Imagen de Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```bash
+$ git init
+```
+
+```javascript
+const saludo = "¡Hola, mundo!";
+console.log(saludo);
+```
