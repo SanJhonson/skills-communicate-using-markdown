@@ -14,3 +14,8 @@ $ git init
 const saludo = "¡Hola, mundo!";
 console.log(saludo);
 ```
+
+- [x] Agregar encabezados
+- [x] Insertar una imagen
+- [x] Incluir bloques de código
+- [ ] Crear una lista de tareas
